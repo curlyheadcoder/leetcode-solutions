@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0713-subarray-product-less-than-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,9 +53,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
