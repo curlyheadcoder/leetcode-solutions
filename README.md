@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-sum-of-even-numbers-after-queries](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1656-count-good-triplets](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1656-count-good-triplets) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2249-count-the-hidden-sequences](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0797-rabbits-in-forest](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1500-count-largest-group) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3548-find-the-count-of-good-integers) |
 ## Union Find
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Design
 |  |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1798-max-number-of-k-sum-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Greedy
