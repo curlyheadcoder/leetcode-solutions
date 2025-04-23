@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0307-range-sum-query-mutable](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
+| [0334-increasing-triplet-subsequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [1879-maximum-score-from-removing-stones](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
