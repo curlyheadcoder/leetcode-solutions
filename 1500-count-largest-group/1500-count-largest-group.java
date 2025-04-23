@@ -1,28 +1,28 @@
-class Solution {
-    private int digitSum(int n){
+class Solution {        // Optimized Version
+    private int digitSum(int num){
         int sum = 0;
-        while(n > 0){
-            sum += (n%10);
-            n /= 10;
+        while(num > 0){
+            sum += (num%10);
+            num /= 10;
         }
         return sum;
     }
     public int countLargestGroup(int n) {
-        HashMap <Integer, Integer> mapSize = new HashMap<>();
+        int [] count = new int[37];  // max digit sum for 9999 is 36
         int maxSize = 0;
-        // Calculate digit sum for each num and update map size
         for(int i = 1; i <= n; i++){
             int sum = digitSum(i);
-            mapSize.put(sum, mapSize.getOrDefault(sum, 0)+1);
-            maxSize = Math.max(maxSize, mapSize.get(sum));
-        }
-        // Count the num of groups with the maximum size
-        int count = 0;
-        for(int map : mapSize.values()){
-            if(map == maxSize){
-                count++;
+            count[sum]++;
+            if(count[sum] > maxSize){
+                maxSize = count[sum];
             }
         }
-        return count;
+        int groups = 0;
+        for(int c : count){
+            if(c == maxSize){
+                groups++;
+            }
+        }
+        return groups;
     }
 }
