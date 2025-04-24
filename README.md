@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0594-longest-harmonious-subsequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0797-rabbits-in-forest](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0594-longest-harmonious-subsequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [0966-binary-subarrays-with-sum](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1500-count-largest-group](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1500-count-largest-group) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -175,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1879-maximum-score-from-removing-stones](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
