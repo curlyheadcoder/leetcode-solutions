@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0797-rabbits-in-forest](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
+| [0966-binary-subarrays-with-sum](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1656-count-good-triplets](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1656-count-good-triplets) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0797-rabbits-in-forest](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
+| [0966-binary-subarrays-with-sum](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1500-count-largest-group](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1500-count-largest-group) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -103,12 +105,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [2249-count-the-hidden-sequences](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2249-count-the-hidden-sequences) |
 ## Recursion
 |  |
