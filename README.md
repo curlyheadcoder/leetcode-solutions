@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0443-string-compression](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0868-push-dominoes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0868-push-dominoes) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1542-consecutive-characters](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1542-consecutive-characters) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0868-push-dominoes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0868-push-dominoes) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Enumeration
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0443-string-compression](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0868-push-dominoes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0868-push-dominoes) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Design
