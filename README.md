@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -285,4 +286,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
