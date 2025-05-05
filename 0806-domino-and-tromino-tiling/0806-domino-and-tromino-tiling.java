@@ -1,16 +1,19 @@
 class Solution {
+    static int mod = (int) 1e9 + 7;
     public int numTilings(int n) {
-        int mod = (int)1e9 + 7;
-        long []f = new long[4];
-        f[0] = 1;
+        long f0 = 1, f1 = 0, f2 = 0, f3 = 0;
         for(int i = 1; i <= n; i++){
-            long [] g = new long[4];
-            g[0] = (f[0] + f[1] + f[2] + f[3]) % mod;
-            g[1] = (f[2] + f[3]) % mod;
-            g[2] = (f[1] + f[3]) % mod;
-            g[3] = f[0];
-            f = g;
+            long newF0 = (f0 + f1 + f2 + f3) % mod;
+            long newF1 = (f2 + f3) % mod;
+            long newF2 = (f1 + f3) % mod;
+            long newF3 = f0;
+
+            f0 = newF0;
+            f1 = newF1;
+            f2 = newF2;
+            f3 = newF3;
         }
-        return (int) f[0];
+
+        return (int) f0;
     }
 }
