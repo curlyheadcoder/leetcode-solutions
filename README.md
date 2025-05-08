@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1127-last-stone-weight](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1319-unique-number-of-occurrences](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1656-count-good-triplets](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1656-count-good-triplets) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1319-unique-number-of-occurrences](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1500-count-largest-group](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1500-count-largest-group) |
 | [1777-determine-if-two-strings-are-close](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
