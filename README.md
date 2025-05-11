@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0187-repeated-dna-sequences](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0383-ransom-note) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0797-rabbits-in-forest](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0202-happy-number](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0868-push-dominoes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0868-push-dominoes) |
