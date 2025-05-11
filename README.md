@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0300-longest-increasing-subsequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
