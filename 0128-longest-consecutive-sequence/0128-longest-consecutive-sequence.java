@@ -1,6 +1,6 @@
 class Solution {
     public int longestConsecutive(int[] nums) {
-        int maxLen = 0;
+        int ans = 0;
         Map<Integer, Boolean> exploredMap = new HashMap<>();
         for(int num : nums){
             exploredMap.put(num, Boolean.FALSE);
@@ -19,8 +19,8 @@ class Solution {
                 exploredMap.put(prevNum, Boolean.TRUE);
                 prevNum--;
             }
-            maxLen = Math.max(maxLen, currLen);
+            ans = Math.max(ans, currLen);
         }
-        return maxLen;
+        return ans;
     }
 }
