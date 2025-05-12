@@ -1,24 +1,36 @@
 class Solution {
 public:
     vector<int> findEvenNumbers(vector<int>& digits) {
-        unordered_set<int> st;
-        int n = digits.size();
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < n; j++){
-                for(int k = 0; k < n; k++){
-                    if(i == j || j == k || i == k){
-                        continue;
-                    }
-                    int num = digits[i] * 100 + digits[j] * 10 + digits[k];
+        vector<int> result;
+        vector<int> mp(10, 0);
 
-                    if(num >= 100 && num % 2 == 0){
-                        st.insert(num);
-                    }
-                }
-            }
+        for(int &digit : digits) {
+            mp[digit]++;
         }
-        vector<int> result(begin(st), end(st));
-        sort(begin(result), end(result));
+
+        for(int i = 1; i <= 9; i++) {
+            if(mp[i] == 0) continue;
+            mp[i]--;
+
+            for(int j = 0; j <= 9; j++) {
+                if(mp[j] == 0) continue;
+                mp[j]--;
+
+                for(int k = 0; k <= 9; k += 2) { // last digit must be even
+                    if(mp[k] == 0) continue;
+                    int num = i * 100 + j * 10 + k;
+                    result.push_back(num);
+                }
+
+                mp[j]++;
+            }
+
+            mp[i]++;
+        }
+
+        sort(result.begin(), result.end());
+        result.erase(unique(result.begin(), result.end()), result.end());
+
         return result;
     }
 };
