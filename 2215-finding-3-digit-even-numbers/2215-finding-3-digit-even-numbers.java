@@ -1,21 +1,33 @@
 class Solution {
     public int[] findEvenNumbers(int[] digits) {
-        Set<Integer> set = new HashSet<>();
-        int n = digits.length;
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < n; j++){
-                for(int k = 0; k < n; k++){
-                    if(i == j || j == k || i == k){
-                        continue;
-                    }
-                    int num = digits[i] * 100 + digits[j] * 10 + digits[k];
-                    if(num >= 100 && num % 2 == 0){
-                        set.add(num);
-                    }
-                }
-            }
+        List<Integer> res = new ArrayList<>();
+        int [] freq = new int [10];
+        // Count digit frequencies
+        for(int digit : digits){
+            freq[digit]++;
         }
-        int [] result = set.stream().sorted().mapToInt(Integer :: intValue).toArray();
-        return result;
+        // Generate all valid 3-digit even numbers
+        for(int i = 1; i <= 9; i++){
+            if(freq[i] == 0) continue;
+            freq[i]--;
+            for(int j = 0; j <= 9; j++){
+                if(freq[j] == 0) continue;
+                freq[j]--;
+                for(int k = 0; k <= 9; k += 2){
+                    if(freq[k] == 0) continue;
+                    int num = i * 100 + j * 10 + k;
+                    res.add(num);
+                }
+                freq[j]++;
+            }
+            freq[i]++;
+        }
+        Set<Integer> unique = new TreeSet<>(res);
+        int [] output = new int [unique.size()];
+        int idx = 0;
+        for(int num : unique){
+            output[idx++] = num;
+        }
+        return output;
     }
 }
