@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2048-build-array-from-permutation](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1500-count-largest-group) |
 | [1777-determine-if-two-strings-are-close](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2215-finding-3-digit-even-numbers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2915-count-of-interesting-subarrays) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1656-count-good-triplets) |
+| [2215-finding-3-digit-even-numbers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2870-longest-alternating-subarray](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2870-longest-alternating-subarray) |
 | [2998-count-symmetric-integers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3548-find-the-count-of-good-integers) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Greedy
