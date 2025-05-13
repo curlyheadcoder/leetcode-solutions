@@ -1,28 +1,18 @@
 class Solution {
-    final int M = 1_000_000_007;
+    static final int MOD = 1000000007;
     public int lengthAfterTransformations(String s, int t) {
-        int [] freq = new int [26];
-        // Initialize frequency from the string 
-        for(char ch : s.toCharArray()){
-            freq[ch - 'a']++;
+        int [] count = new int [26];
+        long res = s.length();
+        int z = 25;
+        for(int i = 0; i <s.length(); i++){
+            char ch = s.charAt(i);
+            count[ch - 'a']++;
         }
-        for(int count = 1; count <= t; count++){
-            int [] temp = new int [26];
-            for(int i = 0; i < 26; i++){
-                if(freq[i] == 0) continue;
-                if(i != 25){    // not 'z'
-                    temp[i+1] = (temp[i+1] + freq[i]) % M;
-                }else{
-                    temp[0] = (temp[0] + freq[i]) % M;   // 'z' to 'a'
-                    temp[1] = (temp[1] + freq[i]) % M;  //  'z' to 'b' 
-                }
-            }
-            freq = temp;
+        while(t-- > 0){
+            res = (res + count[z]) % MOD;
+            count[(z+1) % 26] = (int)((count[(z+1)%26] + (long) count[z]) % MOD);
+            z = (z+25) % 26;
         }
-        int res = 0;
-        for(int val : freq){
-            res = (res + val) % M;
-        }
-        return res;
+        return (int) res;
     }
 }
