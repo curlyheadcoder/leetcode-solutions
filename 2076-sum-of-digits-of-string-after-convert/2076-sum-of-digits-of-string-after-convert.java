@@ -1,18 +1,18 @@
 class Solution {
     public int getLucky(String s, int k) {
-        StringBuilder numericString = new StringBuilder();
+        int sum = 0;
         for(char ch : s.toCharArray()){
-            numericString.append(ch - 'a' + 1);
+            int val = ch - 'a' + 1;
+            sum += val / 10 + val % 10;
         }
-
-        String numStr = numericString.toString();
-        for(int i = 0; i < k; i++){
-            int sum = 0;
-            for(char ch : numStr.toCharArray()){
-                sum = sum + ch - '0';
+        for(int i = 1; i < k; i++){
+            int temp = 0;
+            while(sum > 0){
+                temp += sum % 10;
+                sum /= 10;
             }
-            numStr = String.valueOf(sum);
+            sum = temp;
         }
-        return Integer.parseInt(numStr);
+        return sum;
     }
 }
