@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0260-single-number-iii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0260-single-number-iii) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Rolling Hash
 |  |
 | ------- |
