@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0979-di-string-match) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1542-consecutive-characters](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1542-consecutive-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0078-subsets) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Math
 |  |
 | ------- |
