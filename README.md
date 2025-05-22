@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0076-minimum-window-substring) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0300-longest-increasing-subsequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [2050-count-good-numbers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2050-count-good-numbers) |
 ## Simulation
 |  |
