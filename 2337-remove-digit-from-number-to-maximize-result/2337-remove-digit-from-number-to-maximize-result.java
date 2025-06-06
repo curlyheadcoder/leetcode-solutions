@@ -1,14 +1,14 @@
 class Solution {
     public String removeDigit(String number, char digit) {
-        String max = "";
+        int idxToRemove = -1;
         for(int i = 0; i < number.length(); i++){
             if(number.charAt(i) == digit){
-                String temp = number.substring(0,i) + number.substring(i+1);
-                if(temp.compareTo(max) > 0){
-                    max = temp;
+                idxToRemove = i;
+                if(i+1 < number.length() && number.charAt(i+1) > digit){
+                    break;                    
                 }
             }
         }
-        return max;
+        return number.substring(0, idxToRemove) + number.substring(idxToRemove + 1);
     }
 }
