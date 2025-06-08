@@ -520,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -536,4 +537,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
