@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0443-string-compression) |
+| [0556-next-greater-element-iii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0868-push-dominoes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0868-push-dominoes) |
 | [0979-di-string-match](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0979-di-string-match) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0441-arranging-coins) |
+| [0556-next-greater-element-iii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [0797-rabbits-in-forest](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0443-string-compression) |
+| [0556-next-greater-element-iii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0868-push-dominoes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0868-push-dominoes) |
 | [0979-di-string-match](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0979-di-string-match) |
