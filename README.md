@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
+| [1306-minimum-absolute-difference](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0594-longest-harmonious-subsequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1306-minimum-absolute-difference](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1306-minimum-absolute-difference) |
 | [1777-determine-if-two-strings-are-close](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
