@@ -3,8 +3,11 @@ class Solution {
         String str1 = Integer.toString(num);
         String str2 = str1;
         int idx = 0;
-        while(idx < str1.length() && str1.charAt(idx) == '9'){
-            idx++;
+        for(int i = 0; i < str1.length(); i++){
+            if(str1.charAt(i) != '9'){
+                idx = i;
+                break;
+            }
         }
         if(idx < str1.length()){
             str1 = str1.replace(str1.charAt(idx), '9');
