@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1500-count-largest-group) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1879-maximum-score-from-removing-stones](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
 | [2050-count-good-numbers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2050-count-good-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1879-maximum-score-from-removing-stones](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
