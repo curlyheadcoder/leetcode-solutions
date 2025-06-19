@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2411-spiral-matrix-iv) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
