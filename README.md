@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1879-maximum-score-from-removing-stones](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
 | [2050-count-good-numbers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2050-count-good-numbers) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2998-count-symmetric-integers) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1656-count-good-triplets) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2870-longest-alternating-subarray](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2870-longest-alternating-subarray) |
