@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0868-push-dominoes) |
 | [0979-di-string-match](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0979-di-string-match) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Design
