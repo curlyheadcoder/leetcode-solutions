@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1542-consecutive-characters](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1542-consecutive-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0078-subsets) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Math
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1656-count-good-triplets) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1879-maximum-score-from-removing-stones](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -502,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
