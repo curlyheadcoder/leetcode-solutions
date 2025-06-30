@@ -631,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0175-combine-two-tables) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 ## Trie
 |  |
