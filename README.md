@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3548-find-the-count-of-good-integers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3637-count-number-of-balanced-permutations) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [2050-count-good-numbers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
 | ------- |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2411-spiral-matrix-iv](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2411-spiral-matrix-iv) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Rolling Hash
 |  |
 | ------- |
