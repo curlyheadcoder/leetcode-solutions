@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1656-count-good-triplets) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1500-count-largest-group](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1500-count-largest-group) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
