@@ -1,23 +1,36 @@
 class Solution {
     public int maxFreeTime(int eventTime, int k, int[] startTime, int[] endTime) {
+        ArrayList<Integer> freeArray = new ArrayList<>();
+
+        /*
+            Agar ith event pe khada hu, toh:
+            ith ka start minus (i-1)th ka end equals to gap duration(freeTime)
+
+        */
         int n = startTime.length;
-        int res = 0;
-        int t = 0;      // Total duration of current k-window
-        for(int i = 0; i < n; i++){
-            t += endTime[i] - startTime[i];
+        freeArray.add(startTime[0]);
+        for(int i = 1; i < n; i++){
+            freeArray.add(startTime[i] - endTime[i-1]);
+        } 
+        freeArray.add(eventTime - endTime[endTime.length - 1]);
 
-            // left boundary of the free interval
-            int left = i <= k - 1 ? 0 : endTime[i - k];
-            // right boundary of the free interval 
-            int right = (i == n - 1) ? eventTime : startTime[i+1];
-            // Maximize the free gap: available space minus time taken by meeting 
-            res = Math.max(res, right - left - t);
 
-            // Slide the window by removing the oldest meeting's time
-            if(i >= k - 1){
-                t -= endTime[i - k + 1] - startTime[i - k + 1];
+        // Khandani Sliding Window
+
+        int i = 0, j = 0, maxSum = 0;
+        int currSum = 0;
+
+        int len = freeArray.size();
+        while(j < len){
+            currSum += freeArray.get(j);
+
+            if(i < len && j - i + 1 > k + 1){
+                currSum -= freeArray.get(i);
+                i++;
             }
+            maxSum = Math.max(maxSum, currSum);
+            j++;
         }
-        return res;
+        return maxSum;
     }
 }
