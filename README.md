@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1879-maximum-score-from-removing-stones](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
+| [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2050-count-good-numbers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2050-count-good-numbers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1879-maximum-score-from-removing-stones](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
+| [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
