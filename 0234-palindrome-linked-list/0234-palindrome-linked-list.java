@@ -10,17 +10,35 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        List<Integer> list = new ArrayList<>();
-        while(head != null){
-            list.add(head.val);
-            head = head.next;
+        if(head == null || head.next == null) return true;
+        // Step 1: Find Middle
+        ListNode slow = head, fast = head;
+        while(fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
         }
-        int i = 0, j = list.size() - 1;
-        while(i < j){
-            if(!list.get(i).equals(list.get(j))) return false;
-            i++;
-            j--;
+        // Step 2: Reverse second half
+        ListNode secondHalf = reverse(slow);
+        ListNode firstHalf = head;
+
+        // Step 3: Compare both halves 
+        while(secondHalf != null){
+            if(firstHalf.val != secondHalf.val) return false;
+            firstHalf = firstHalf.next;
+            secondHalf = secondHalf.next;
         }
         return true;
+    }
+
+    // helper: Reverse List
+    private ListNode reverse(ListNode head){
+        ListNode prev = null;
+        while(head != null){
+            ListNode next = head.next;
+            head.next = prev;
+            prev = head;
+            head = next;
+        }
+        return prev;
     }
 }
