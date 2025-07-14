@@ -9,36 +9,19 @@
  * }
  */
 class Solution {
+    private ListNode front;
     public boolean isPalindrome(ListNode head) {
-        if(head == null || head.next == null) return true;
-        // Step 1: Find Middle
-        ListNode slow = head, fast = head;
-        while(fast != null && fast.next != null){
-            slow = slow.next;
-            fast = fast.next.next;
-        }
-        // Step 2: Reverse second half
-        ListNode secondHalf = reverse(slow);
-        ListNode firstHalf = head;
-
-        // Step 3: Compare both halves 
-        while(secondHalf != null){
-            if(firstHalf.val != secondHalf.val) return false;
-            firstHalf = firstHalf.next;
-            secondHalf = secondHalf.next;
-        }
-        return true;
+        front = head;
+        return helper(head);
     }
+    private boolean helper(ListNode node){
+        if(node == null) return true;
 
-    // helper: Reverse List
-    private ListNode reverse(ListNode head){
-        ListNode prev = null;
-        while(head != null){
-            ListNode next = head.next;
-            head.next = prev;
-            prev = head;
-            head = next;
-        }
-        return prev;
+        boolean isPal = helper(node.next);
+        if(!isPal) return false;
+
+        boolean isEqual = (node.val == front.val);
+        front= front.next;
+        return isEqual;
     }
 }
