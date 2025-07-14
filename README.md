@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0206-reverse-linked-list](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2411-spiral-matrix-iv) |
 ## Bit Manipulation
 |  |
