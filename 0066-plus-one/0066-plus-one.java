@@ -7,8 +7,8 @@ class Solution {
             }
             digits[i] = 0;
         }
-        int [] res = new int [digits.length + 1];
-        res[0] = 1;
-        return res;
+        return java.util.stream.IntStream
+            .concat(java.util.stream.IntStream.of(1), java.util.stream.IntStream.generate(() -> 0).limit(digits.length))
+            .toArray();
     }
 }
