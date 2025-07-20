@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0162-find-peak-element](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
