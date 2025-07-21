@@ -1,11 +1,15 @@
 class Solution {
     public String makeFancyString(String s) {
-        StringBuilder sb = new StringBuilder();
+        StringBuilder res = new StringBuilder();
+        int count = 1;
+
         for(int i = 0; i < s.length(); i++){
-            int len = sb.length();
-            if(len >= 2 && sb.charAt(len - 1) == s.charAt(i) && sb.charAt(len - 2) == s.charAt(i)) continue;
-            sb.append(s.charAt(i));
+            if(i > 0 && s.charAt(i) == s.charAt(i-1)) count++;
+            else count = 1;
+
+            // Only append if less than 3 consecutive characters
+            if(count < 3) res.append(s.charAt(i));
         }
-        return sb.toString();
+        return res.toString();
     }
 }
