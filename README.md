@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0367-valid-perfect-square) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
@@ -745,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
