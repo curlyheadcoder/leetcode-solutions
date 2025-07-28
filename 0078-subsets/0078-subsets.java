@@ -1,21 +1,19 @@
 class Solution {
-    List<List<Integer>> master = new ArrayList<>();
+    private List<List<Integer>> res = new ArrayList<>();
 
     public List<List<Integer>> subsets(int[] nums) {
-        rec(nums, 0, new LinkedList<Integer>());
-        return master;
+        List<Integer> temp = new ArrayList<>();
+        solve(nums, 0, temp);  
+        return res;
     }
-
-    public void rec(int[] nums, int index, LinkedList<Integer> curr) {
-        if (index == nums.length) {
-            master.add(new LinkedList<>(curr));
+    private void solve(int [] nums, int idx, List<Integer> temp){
+        if(idx >= nums.length){
+            res.add(new ArrayList<>(temp));
             return;
         }
-
-        curr.add(nums[index]);
-        rec(nums, index + 1, curr);
-
-        curr.removeLast();
-        rec(nums, index + 1, curr);
+        temp.add(nums[idx]);
+        solve(nums, idx+1, temp);
+        temp.remove(temp.size()- 1);
+        solve(nums, idx + 1, temp);
     }
 }
