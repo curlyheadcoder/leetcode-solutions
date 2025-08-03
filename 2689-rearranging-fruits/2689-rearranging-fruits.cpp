@@ -29,7 +29,9 @@ public:
                 finalList.push_back(cost);
             }
         }
-        sort(begin(finalList), end(finalList));
+        sort(begin(finalList), end(finalList)); // no need to sort entire array
+
+        nth_element(begin(finalList), begin(finalList) + finalList.size()/2, end(finalList));
 
         long long res = 0;
         for(int i = 0; i < finalList.size()/2; i++){
