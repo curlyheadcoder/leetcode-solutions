@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0797-rabbits-in-forest](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
+| [0898-transpose-matrix](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0921-spiral-matrix-iii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0898-transpose-matrix](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0921-spiral-matrix-iii) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [2048-build-array-from-permutation](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
@@ -771,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0898-transpose-matrix](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0921-spiral-matrix-iii) |
 | [0945-snakes-and-ladders](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0945-snakes-and-ladders) |
 | [2411-spiral-matrix-iv](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2411-spiral-matrix-iv) |
