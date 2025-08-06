@@ -10,15 +10,19 @@
  */
 class Solution {
     public ListNode middleNode(ListNode head) {
-        ListNode slow = head;
-        ListNode fast = head;
-        // Travel until the fast pointer reaches the last node or null
-        while(fast != null && fast.next != null){
-            // slow pointer moves 1 node at a time
-            slow = slow.next;
-            // fast pointer moves 2 nodes at a time
-            fast = fast.next.next;
+        int count = 0;
+        ListNode curr = head;
+        while(curr != null){
+            count++;
+            curr = curr.next;
         }
-        return slow;
+        int mid = count / 2;
+        curr = head;
+        for(int i = 0; i < mid; i++){
+            curr = curr.next;
+        }
+    
+    return curr; 
+
     }
 }
