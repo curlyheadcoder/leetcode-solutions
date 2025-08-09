@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0367-valid-perfect-square) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0268-missing-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
