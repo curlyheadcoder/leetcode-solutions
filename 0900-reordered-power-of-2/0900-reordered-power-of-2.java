@@ -1,29 +1,17 @@
 class Solution {
-    public boolean reorderedPowerOf2(int n) {
-        int [] input = countDigits(n);
+    private static final Set<String> powerSignatures = new HashSet<>();
+    static{
         for(int i = 0; i < 31; i++){
             int power = 1 << i;
-            int [] powArray = countDigits(power);
-
-            if(matches(input, powArray)){
-                return true;
-            }
+            powerSignatures.add(signature(power));
         }
-        return false;
     }
-    private boolean matches(int [] a, int [] b){
-        for(int i = 0; i < a.length; i++){
-            if(a[i] != b[i]) return false;
-        }
-        return true;
+    public boolean reorderedPowerOf2(int n) {
+        return powerSignatures.contains(signature(n));
     }
-    private int [] countDigits(int n){
-        int num = n;
-        int [] count = new int [10];
-        while(num > 0){
-            count[num%10] += 1;
-            num /= 10;
-        }
-        return count;
+    private static String signature(int num){
+        char [] digits = String.valueOf(num).toCharArray();
+        Arrays.sort(digits);
+        return new String(digits);
     }
 }
