@@ -1,6 +1,6 @@
 class MinStack {
-    Stack <Integer> st = new Stack<>();
-    Stack <Integer> min = new Stack<>();
+    Stack<Integer> st = new Stack<>();
+    Stack<Integer> min = new Stack<>();
     public MinStack() {
         
     }
@@ -9,10 +9,14 @@ class MinStack {
         if(st.size() == 0){
             st.push(val);
             min.push(val);
-        }else{
+        }
+        else{
             st.push(val);
-            if(min.peek() < val) min.push(min.peek());
-            else min.push(val);
+            if(min.peek() <= val){
+                min.push(min.peek());
+            }else{
+                min.push(val);
+            }
         }
     }
     
