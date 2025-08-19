@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0868-push-dominoes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0868-push-dominoes) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0979-di-string-match) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0561-array-partition](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0561-array-partition) |
 | [0797-rabbits-in-forest](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0979-di-string-match) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
@@ -807,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0883-car-fleet) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2470-removing-stars-from-a-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
