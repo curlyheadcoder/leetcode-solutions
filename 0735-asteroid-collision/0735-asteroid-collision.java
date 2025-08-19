@@ -1,38 +1,30 @@
 class Solution {
     public int[] asteroidCollision(int[] asteroids) {
         Stack<Integer> st = new Stack<>();
-        for(int i = 0; i < asteroids.length; i++){
-            // if stack is empty or a positive value arrives then perform blind insertion
-            if(st.size() == 0 || asteroids[i] > 0){
-                st.push(asteroids[i]);
-            }else{
-                while(st.size() != 0){
-                    int top = st.peek();
-                    if(top < 0){
-                        st.push(asteroids[i]);
-                        break;
-                    }
-                    int modVal = Math.abs(asteroids[i]);
-                    if(modVal == top){
-                        st.pop();
-                        break;
-                    }else if(modVal < top){
-                        break;
-                    }else{
-                        st.pop();
-                        if(st.size() == 0){
-                            st.push(asteroids[i]);
-                            break;
-                        }
-                    }
+        for(int asteroid : asteroids){
+            boolean destroyed = false;
+            while(st.size() != 0 && asteroid < 0 && st.peek() > 0){
+                if(st.peek() < -asteroid){
+                    st.pop();    // smaller asteroid destroyed
+                }else if(st.peek() == -asteroid){
+                    st.pop();    //  equal size destroy both
+                    destroyed = true;
+                    break;
+                }else{
+                    destroyed = true;   // current asteroid destroyed
+                    break;
                 }
             }
+            if(!destroyed){
+                st.push(asteroid);
+            }
         }
-        int len = st.size();
-        int ansArray [] = new int [len];
-        for(int i = len-1; i>= 0; i--){
-            ansArray[i] = st.pop();
-        } 
-        return ansArray;
+        // Convert stack into array (resultant array)
+        int n = st.size();
+        int [] resArray = new int [n];
+        for(int i = n-1; i >= 0; i--){
+            resArray[i] = st.pop();
+        }
+        return resArray;
     }
 }
