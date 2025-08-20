@@ -1,20 +1,14 @@
 class Solution {
     public int minSwaps(String s) {
-        Stack<Character> st = new Stack<>();
+        int open = 0, close = 0;
         for(int i = 0; i < s.length(); i++){
             char ch = s.charAt(i);
-            if(ch == '['){
-                st.push(ch);
-            }else{
-                if(st.isEmpty() || st.peek() ==']'){
-                    st.push(ch);
-                }else{
-                    st.pop();
-                }
+            if(ch == '[') open++;
+            else{
+                if(open <= 0) close++;
+                else open--;
             }
         }
-        int totalBrackets = st.size();
-        int closedBrackets = totalBrackets/2;
-        return (closedBrackets+1)/ 2;
+        return (close+1)/2;
     }
 }
