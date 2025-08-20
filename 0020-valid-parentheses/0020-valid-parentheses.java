@@ -9,13 +9,15 @@ class Solution {
                 st.push(ch);
             }else{
                 if(st.isEmpty()) return false;
-                char top = st.pop();
+                char top = st.peek();
                 if(ch == ')' && top != '('){
                     return false;
                 }else if(ch == ']' && top != '['){
                     return false;
                 }else if(ch == '}' && top != '{'){
                     return false;
+                }else{
+                    st.pop();
                 }
             }
         }
