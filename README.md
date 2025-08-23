@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3321-type-of-triangle) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2870-longest-alternating-subarray](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2870-longest-alternating-subarray) |
 | [2998-count-symmetric-integers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2998-count-symmetric-integers) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2411-spiral-matrix-iv](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2411-spiral-matrix-iv) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
