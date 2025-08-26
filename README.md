@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Sliding Window
@@ -816,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0268-missing-number) |
