@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0367-valid-perfect-square) |
@@ -999,10 +1000,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0292-nim-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Probability and Statistics
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0867-new-21-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
