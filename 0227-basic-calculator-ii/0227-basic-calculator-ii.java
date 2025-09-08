@@ -1,34 +1,37 @@
 class Solution {
     public int calculate(String s) {
-        Stack<Integer> st = new Stack<>();
-        int currNum = 0;
-        int operator = '+';
-        for(int idx = 0; idx < s.length(); idx++){
-            char ch = s.charAt(idx);
-            if(Character.isDigit(ch)){
-                currNum = (currNum * 10) + (ch - '0');
+
+        if (s == null || s.isEmpty()) return 0;
+        int len = s.length();
+        Stack<Integer> stack = new Stack<Integer>();
+        int currentNumber = 0;
+        char operation = '+';
+        for (int i = 0; i < len; i++) {
+            char currentChar = s.charAt(i);
+            if (Character.isDigit(currentChar)) {
+                currentNumber = (currentNumber * 10) + (currentChar - '0');
             }
-            if((!Character.isDigit(ch) && ch != ' ') || (idx == s.length() -1)){
-                if(operator == '+'){
-                    st.push(currNum);
+            if (!Character.isDigit(currentChar) && !Character.isWhitespace(currentChar) || i == len - 1) {
+                if (operation == '-') {
+                    stack.push(-currentNumber);
                 }
-                else if(operator == '-'){
-                    st.push(-1 * currNum);
+                else if (operation == '+') {
+                    stack.push(currentNumber);
                 }
-                else if(operator == '*'){
-                    st.push(currNum * st.pop());
+                else if (operation == '*') {
+                    stack.push(stack.pop() * currentNumber);
                 }
-                else if(operator == '/'){
-                    st.push(st.pop() / currNum);
+                else if (operation == '/') {
+                    stack.push(stack.pop() / currentNumber);
                 }
-                currNum = 0;
-                operator = ch;
+                operation = currentChar;
+                currentNumber = 0;
             }
         }
-        int sum = 0;
-        while(st.size () != 0){
-            sum += st.pop();
+        int result = 0;
+        while (!stack.isEmpty()) {
+            result += stack.pop();
         }
-        return sum;
+        return result;
     }
 }
