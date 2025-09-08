@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0753-open-the-lock](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0753-open-the-lock) |
 | [0797-rabbits-in-forest](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [0883-car-fleet](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0883-car-fleet) |
 | [0898-transpose-matrix](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0898-transpose-matrix) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0753-open-the-lock](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0753-open-the-lock) |
 | [0797-rabbits-in-forest](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0753-open-the-lock](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0753-open-the-lock) |
 | [0868-push-dominoes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0868-push-dominoes) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0979-di-string-match) |
@@ -1013,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0753-open-the-lock](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0753-open-the-lock) |
 | [0945-snakes-and-ladders](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
