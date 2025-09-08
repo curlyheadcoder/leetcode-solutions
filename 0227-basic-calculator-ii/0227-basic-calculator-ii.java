@@ -1,27 +1,27 @@
 class Solution {
     public int calculate(String s) {
         Stack<Integer> st = new Stack<>();
-        int num = 0;
+        int currNum = 0;
         int operator = '+';
         for(int idx = 0; idx < s.length(); idx++){
             char ch = s.charAt(idx);
             if(Character.isDigit(ch)){
-                num = (num * 10) + (ch - '0');
+                currNum = (currNum * 10) + (ch - '0');
             }
             if((!Character.isDigit(ch) && ch != ' ') || (idx == s.length() -1)){
                 if(operator == '+'){
-                    st.push(num);
+                    st.push(currNum);
                 }
                 else if(operator == '-'){
-                    st.push(-1 * num);
+                    st.push(-1 * currNum);
                 }
                 else if(operator == '*'){
-                    st.push(num * st.pop());
+                    st.push(currNum * st.pop());
                 }
                 else if(operator == '/'){
-                    st.push(st.pop() / num);
+                    st.push(st.pop() / currNum);
                 }
-                num = 0;
+                currNum = 0;
                 operator = ch;
             }
         }
