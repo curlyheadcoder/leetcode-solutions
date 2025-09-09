@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2361-calculate-digit-sum-of-a-string) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2411-spiral-matrix-iv](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2411-spiral-matrix-iv) |
 | [2470-removing-stars-from-a-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
@@ -893,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0954-maximum-sum-circular-subarray](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
