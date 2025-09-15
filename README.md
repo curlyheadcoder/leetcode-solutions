@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1006-vowel-spellchecker) |
 | [1034-subarrays-with-k-different-integers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1500-count-largest-group](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
