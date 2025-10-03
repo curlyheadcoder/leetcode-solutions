@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -871,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [1127-last-stone-weight](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1879-maximum-score-from-removing-stones](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
@@ -1035,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0921-spiral-matrix-iii) |
@@ -1089,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0407-trapping-rain-water-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0753-open-the-lock](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0753-open-the-lock) |
 | [0945-snakes-and-ladders](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0945-snakes-and-ladders) |
