@@ -1,48 +1,42 @@
 class Solution {
     public int maxFrequency(int[] nums, int k, int numOperations) {
         Arrays.sort(nums);
-        int n = nums.length;
-        int ans = 0;
-        // Step 1: Build frequency map for existing numbers
-        Map<Integer, Integer> freq = new HashMap<>();
-        for (int num : nums) {
-            freq.put(num, freq.getOrDefault(num, 0) + 1);
-            ans = Math.max(ans, freq.get(num)); // track the max frequency so far
-        }
-        // Step 2: Try every integer in range [min, max]
-        for (int target = nums[0]; target <= nums[n - 1]; target++) {
-            int left = lowerBound(nums, target - k);
-            int right = upperBound(nums, target + k) - 1;
 
-            int countInRange = right - left + 1;
-            int baseFreq = freq.getOrDefault(target, 0);
-            int possible = Math.min(countInRange, baseFreq + numOperations);
-            ans = Math.max(ans, possible);
+        Map<Integer, Integer> freq = new HashMap<>();
+        for (int n : nums) {
+            freq.put(n, freq.getOrDefault(n, 0) + 1);
         }
+
+        int maxNum = nums[nums.length - 1];
+
+        int ans = 0;
+        for (int target = 1; target <= maxNum; target++) {
+            ans = Math.max(ans, maximumFreq(target, nums, freq, k, numOperations));
+        }
+
         return ans;
     }
-    // First index >= value
-    private int lowerBound(int[] nums, int value) {
-        int l = 0, r = nums.length;
-        while (l < r) {
-            int mid = l + (r - l) / 2;
-            if (nums[mid] < value)
-                l = mid + 1;
-            else
-                r = mid;
-        }
-        return l;
+
+    private int maximumFreq(int target, int[] nums, Map<Integer, Integer> freq, int k, 
+    int numOperations) {
+        int left = getIndex(nums, target - k);
+        int right = getIndex(nums, target + k + 1);
+        int operations = right - left - freq.getOrDefault(target, 0);
+
+        return Math.min(operations, numOperations) + freq.getOrDefault(target, 0);
     }
-    // First index > value
-    private int upperBound(int[] nums, int value) {
+
+    private int getIndex(int[] nums, int target) {
         int l = 0, r = nums.length;
         while (l < r) {
-            int mid = l + (r - l) / 2;
-            if (nums[mid] <= value)
+            int mid = (l + r) / 2;
+            if (nums[mid] < target) {
                 l = mid + 1;
-            else
+            } else {
                 r = mid;
+            }
         }
+
         return l;
     }
 }
