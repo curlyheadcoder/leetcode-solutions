@@ -1,39 +1,37 @@
 class Solution {
-    public int maxFrequency(int[] nums, int k, int numOperations) {
-        int maxVal = Arrays.stream(nums).max().getAsInt() + k;
-        TreeMap<Integer, Integer> diff = new TreeMap<>();
-        HashMap<Integer, Integer> freq = new HashMap<>();
-
-        // O(n log n)
-        for (int num : nums) {
-            freq.put(num, freq.getOrDefault(num, 0) + 1);
-
-            int l = Math.max(num - k, 0);
-            int r = Math.min(num + k, maxVal);
-
-            diff.put(l, diff.getOrDefault(l, 0) + 1);
-            diff.put(r + 1, diff.getOrDefault(r + 1, 0) - 1);
-
-            // Ensure key exists for later iteration
-            diff.putIfAbsent(num, diff.getOrDefault(num, 0));
+    public int maxFrequency(int[] nums, int k, int ops) {
+        int res = 0;
+        Arrays.sort(nums);
+        int left = 0;
+        int right = 0;
+        int n = nums.length;
+        int i = 0;
+        // case 1, num is in the arr
+        while (i < n) {
+            int val = nums[i];
+            int same = 0;
+            while (i < n && nums[i] == val) {
+                same++;
+                i++;
+            }
+            while (right < n && nums[right] <= val + k) {
+                right++;
+            }
+            while (left < n && nums[left] < val - k) {
+                left++;
+            }
+            res = Math.max(res, Math.min(same + ops, right - left));
         }
-
-        int result = 1;
-        int cumSum = 0;
-
-        // O(n)
-        for (Map.Entry<Integer, Integer> entry : diff.entrySet()) {
-            int target = entry.getKey();
-            int val = entry.getValue();
-
-            cumSum += val;
-            int targetFreq = freq.getOrDefault(target, 0);
-            int needConversion = cumSum - targetFreq;
-
-            int maxPossibleFreq = Math.min(needConversion, numOperations);
-            result = Math.max(result, targetFreq + maxPossibleFreq);
+        // case 2, num is not in the arr
+        left = 0;
+        right = 0;
+        while (right < n) {
+            while (right < n && (long) nums[left] + k + k >= nums[right]) {
+                right++;
+            }
+            res = Math.max(res, Math.min(right - left, ops));
+            left++;
         }
-
-        return result;
+        return res;
     }
 }
