@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0474-ones-and-zeroes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0498-diagonal-traverse) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0443-string-compression) |
+| [0474-ones-and-zeroes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0556-next-greater-element-iii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0753-open-the-lock](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0753-open-the-lock) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0474-ones-and-zeroes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0806-domino-and-tromino-tiling](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0867-new-21-game) |
