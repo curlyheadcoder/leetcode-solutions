@@ -1,8 +1,11 @@
 class Solution {
     public int findFinalValue(int[] nums, int original) {
-        Arrays.sort(nums);
-        for(int n : nums){
-            if(n == original) original = 2 * original;
+        HashSet<Integer> hset = new HashSet<>();
+        for(int num : nums){
+            hset.add(num);
+        }
+        while(hset.contains(original)){
+            original = original * 2;
         }
         return original;
     }
