@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2169-simple-bank-system](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2169-simple-bank-system) |
@@ -668,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -933,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -989,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1929-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
