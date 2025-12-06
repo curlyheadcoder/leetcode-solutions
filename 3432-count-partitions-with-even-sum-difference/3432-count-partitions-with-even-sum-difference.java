@@ -1,22 +1,18 @@
 class Solution {
     public int countPartitions(int[] nums) {
-        int n = nums.length;
-
-        int sum = 0;
-        for (int x : nums) sum += x;
-
-        int leftSum = 0;
-        int result = 0;
-
-        for (int i = 0; i < n - 1; i++) {
-            leftSum += nums[i];
-            int rightSum = sum - leftSum;
-
-            if ((leftSum - rightSum) % 2 == 0) {
-                result++;
-            }
+        int sumLeft = 0, sumRight = sum(nums), count = 0;
+        for(int i = 0; i < nums.length - 1; i++){
+            sumLeft += nums[i];
+            sumRight -= nums[i];
+            if((sumRight - sumLeft) % 2 == 0) count++;
         }
-
-        return result;
+        return count;
+    }
+    private int sum(int [] nums){
+        int sum = 0;
+        for(int num : nums){
+            sum += num;
+        }
+        return sum;
     }
 }
