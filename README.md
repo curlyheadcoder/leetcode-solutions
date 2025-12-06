@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3618-find-the-original-typed-string-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -759,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -1152,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3827-implement-router](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
@@ -1159,6 +1164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Stack
 |  |
 | ------- |
