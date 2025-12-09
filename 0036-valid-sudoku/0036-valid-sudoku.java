@@ -1,24 +1,31 @@
 class Solution {
     public boolean isValidSudoku(char[][] board) {
-        boolean[][] rows = new boolean[9][9];
-        boolean[][] cols = new boolean[9][9];
-        boolean[][] boxes = new boolean[9][9]; // nine 3x3 boxes
+        Set<Character> [] rowSet = new HashSet[9];
+        Set<Character> [] colSet = new HashSet[9];
+        Set<Character> [] gridSet = new HashSet[9];
 
-        for (int r = 0; r < 9; r++) {
-            for (int c = 0; c < 9; c++) {
-                char ch = board[r][c];
-                if (ch == '.') continue;
+        for(int i = 0; i < 9; i++){
+            rowSet[i] = new HashSet<>();
+            colSet[i] = new HashSet<>();
+            gridSet[i] = new HashSet<>();
+        }
 
-                int num = ch - '1'; // index 0-8
-                int boxIndex = (r / 3) * 3 + (c / 3);
+        for(int i = 0; i < 9; i++){
+            for(int j = 0; j < 9; j++){
+                int gridNo = (i/3)*3 + (j/3);
 
-                if (rows[r][num]) return false;   // duplicate in row
-                if (cols[c][num]) return false;   // duplicate in column
-                if (boxes[boxIndex][num]) return false; // duplicate in box
+                if(board[i][j] != '.'){
+                    boolean isPresentInRow = rowSet[i].contains(board[i][j]);
+                    boolean isPresentInCol = colSet[j].contains(board[i][j]);
+                    boolean isPresentInGrid = gridSet[gridNo].contains(board[i][j]);
 
-                rows[r][num] = true;
-                cols[c][num] = true;
-                boxes[boxIndex][num] = true;
+                    if(isPresentInRow || isPresentInCol || isPresentInGrid){
+                        return false;
+                    }
+                    rowSet[i].add(board[i][j]);
+                    colSet[j].add(board[i][j]);
+                    gridSet[gridNo].add(board[i][j]);
+                }
             }
         }
         return true;
