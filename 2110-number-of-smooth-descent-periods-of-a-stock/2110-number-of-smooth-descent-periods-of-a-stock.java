@@ -1,14 +1,15 @@
 class Solution {
     public long getDescentPeriods(int[] prices) {
-        long res = 1;
-        long streak = 1;
-        for(int i = 1; i < prices.length; i++){
-            if(prices[i] == prices[i-1] - 1){
-                streak += 1;
+        int n = prices.length;
+        long count = 1, res = 1;
+        // since first one is a smooth descent period itself
+        for(int i = 1; i < n; i++){
+            if(prices[i-1] - prices[i] == 1){
+                count++;
             }else{
-                streak = 1;
+                count = 1;
             }
-            res += streak;
+            res += count;
         }
         return res;
     }
