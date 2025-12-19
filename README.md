@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [2092-find-all-people-with-secret](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3863-power-grid-maintenance) |
 ## String
 |  |
@@ -987,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2092-find-all-people-with-secret](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -1263,6 +1265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2092-find-all-people-with-secret](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2092-find-all-people-with-secret) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -1331,6 +1334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2092-find-all-people-with-secret) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -1352,6 +1356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2092-find-all-people-with-secret) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3863-power-grid-maintenance](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3863-power-grid-maintenance) |
