@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
@@ -884,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -971,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
