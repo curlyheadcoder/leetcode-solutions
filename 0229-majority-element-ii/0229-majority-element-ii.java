@@ -2,8 +2,8 @@ class Solution {
     public List<Integer> majorityElement(int[] nums) {
         int maj1 = 0, maj2 = 0;
         int count1 = 0, count2 = 0;
-
-        for(int i = 0; i < nums.length; i++){
+        int n = nums.length;
+        for(int i = 0; i < n; i++){
             if(nums[i] == maj1){
                 count1++;
             }else if(nums[i] == maj2){
@@ -19,20 +19,18 @@ class Solution {
                 count2--;
             }
         }
-        // Verification
-
-        List<Integer> ans = new ArrayList<>();
         int freq1 = 0, freq2 = 0;
+
+        List<Integer> res = new ArrayList<>();
 
         for(int num : nums){
             if(num == maj1) freq1++;
             else if(num == maj2) freq2++;
-        } 
+        }
 
-        if(freq1 > nums.length/3) ans.add(maj1);
-        if(freq2 > nums.length/3) ans.add(maj2);
+        if(freq1 > n/3) res.add(maj1);
+        if(freq2 > n/3) res.add(maj2);
 
-        return ans;
+        return res;
     }
-
 }
