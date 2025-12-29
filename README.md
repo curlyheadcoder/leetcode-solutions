@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0753-open-the-lock](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0753-open-the-lock) |
+| [0756-pyramid-transition-matrix](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0797-rabbits-in-forest](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0753-open-the-lock](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0753-open-the-lock) |
+| [0756-pyramid-transition-matrix](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0868-push-dominoes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0679-24-game](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0756-pyramid-transition-matrix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -1204,6 +1207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0756-pyramid-transition-matrix](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
