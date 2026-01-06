@@ -714,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -781,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1394,6 +1396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0794-swim-in-rising-water](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -1417,6 +1420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0753-open-the-lock) |
 | [0794-swim-in-rising-water](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
 | [0945-snakes-and-ladders](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0945-snakes-and-ladders) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
