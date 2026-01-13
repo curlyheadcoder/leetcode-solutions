@@ -1,25 +1,31 @@
 class Solution {
     public int compress(char[] chars) {
-        int write = 0; // position to write the compressed character
-        int start = 0; // start index of each group
+        int n = chars.length;
+        int idx = 0;
+        int i = 0;
+        while(i < n){
+            char curr = chars[i];
+            int count = 0;
+            
+            // find count of duplicates
+            while(i < n && chars[i] == curr){
+                count++;
+                i++;
+            }
 
-        for (int i = 0; i <= chars.length; i++) {
-            // If end of array or current char differs from previous one
-            if (i == chars.length || chars[i] != chars[start]) {
-                chars[write++] = chars[start]; // write the character
-
-                int count = i - start;
-                if (count > 1) {
-                    String numStr = String.valueOf(count);
-                    for (char ch : numStr.toCharArray()) {
-                        chars[write++] = ch; // write each digit
-                    }
+            // Now do the assign work
+            chars[idx] = curr;
+            idx++;
+            
+            // if count is greater than 1
+            if(count > 1){
+                String countStr = String.valueOf(count);
+                for(char ch : countStr.toCharArray()){
+                    chars[idx] = ch;
+                    idx++;
                 }
-
-                start = i; // move to next group
             }
         }
-
-        return write;
+        return idx;
     }
 }
