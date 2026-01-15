@@ -1,10 +1,10 @@
 class Solution {
     public int trailingZeroes(int n) {
-        int res = 0;
+        int count = 0, pow =5;
         while(n >= 5){
-            n = n/5;
-            res = res + n;
+            n /= 5;
+            count += n;
         }
-        return res;
+        return count;
     }
 }
