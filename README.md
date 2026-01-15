@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2870-longest-alternating-subarray](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2870-longest-alternating-subarray) |
 | [2915-count-of-interesting-subarrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -1063,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2887-sort-vowels-in-a-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
