@@ -54,7 +54,6 @@ class Solution {
                         }
                     }
                     if (!check) continue;
-                    // 两条对角线的和
                     int d1 = 0;
                     int d2 = 0;
                     for (int k = 0; k < edge; ++k) {
