@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0665-non-decreasing-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0665-non-decreasing-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0679-24-game](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0679-24-game) |
+| [0704-binary-search](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -758,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0441-arranging-coins) |
+| [0704-binary-search](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0794-swim-in-rising-water](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0794-swim-in-rising-water) |
