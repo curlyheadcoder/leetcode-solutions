@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0840-magic-squares-in-grid) |
+| [0881-boats-to-save-people](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0883-car-fleet](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0883-car-fleet) |
 | [0898-transpose-matrix](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0921-spiral-matrix-iii) |
@@ -967,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0868-push-dominoes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0868-push-dominoes) |
 | [0876-middle-of-the-linked-list](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [0979-di-string-match](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0979-di-string-match) |
@@ -1059,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0759-set-intersection-size-at-least-two](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0759-set-intersection-size-at-least-two) |
+| [0881-boats-to-save-people](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0883-car-fleet](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0883-car-fleet) |
 | [0900-reordered-power-of-2](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [0941-sort-array-by-parity](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0941-sort-array-by-parity) |
@@ -1117,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0759-set-intersection-size-at-least-two](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0797-rabbits-in-forest](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
+| [0881-boats-to-save-people](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0979-di-string-match) |
