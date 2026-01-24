@@ -4,7 +4,7 @@ class Solution {
         int boatCount = 0;
         Arrays.sort(people);
         while(left <= right){
-            if(people[left] + people[right] <= limit){
+            if((left != right) && people[left] + people[right] <= limit){
                 left++;
                 right--;
             }else{
