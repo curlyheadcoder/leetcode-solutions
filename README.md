@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2079-watering-plants](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2079-watering-plants) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -939,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2079-watering-plants](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2079-watering-plants) |
 | [2169-simple-bank-system](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
