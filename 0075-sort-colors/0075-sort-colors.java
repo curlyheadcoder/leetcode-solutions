@@ -6,6 +6,8 @@ class Solution {
                 2  ---> blue      -----> at end 
                 expected  --> 0 0 0 1 1 1 2 2 
         */
+
+
         int start = 0, end = nums.length-1;
         int mid = 0;
         while(mid <= end){
@@ -20,10 +22,11 @@ class Solution {
                 mid++;
             }
         }
+        
     }
-    static void swap(int [] nums, int pos1, int pos2){
-        int temp = nums[pos1];
-        nums[pos1] = nums[pos2];
-        nums[pos2] = temp;
-    }
+    public void swap(int [] nums, int pos1, int pos2){
+            int temp = nums[pos1];
+            nums[pos1] = nums[pos2];
+            nums[pos2] = temp;
+        }
 }
