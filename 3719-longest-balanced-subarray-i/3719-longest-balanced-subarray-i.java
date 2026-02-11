@@ -1,22 +1,23 @@
 class Solution {
-
     public int longestBalanced(int[] nums) {
-        int len = 0;
-
-        for (int i = 0; i < nums.length; i++) {
-            HashMap<Integer, Integer> odd = new HashMap<>();
-            HashMap<Integer, Integer> even = new HashMap<>();
-
-            for (int j = i; j < nums.length; j++) {
-                HashMap<Integer, Integer> map = (nums[j] & 1) == 1 ? odd : even;
-                map.put(nums[j], map.getOrDefault(nums[j], 0) + 1);
-
-                if (odd.size() == even.size()) {
-                    len = Math.max(len, j - i + 1);
+        int n = nums.length;
+        int maxLen = 0;
+        for(int i = 0; i < n; i++){
+            Map<Integer, Integer> freq = new HashMap<>();
+            int disEven = 0;
+            int disOdd = 0;
+            for(int j = i; j < n; j++){
+                int num = nums[j];
+                freq.put(num, freq.getOrDefault(num, 0)+1);
+                if(freq.get(num) == 1){   // first time seen
+                    if(num % 2 == 0) disEven++;
+                    else disOdd++;
+                }
+                if(disEven == disOdd){
+                    maxLen = Math.max(maxLen, j - i + 1);
                 }
             }
         }
-
-        return len;
+        return maxLen;
     }
 }
