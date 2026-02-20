@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0753-open-the-lock](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0753-open-the-lock) |
 | [0756-pyramid-transition-matrix](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [0868-push-dominoes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0868-push-dominoes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -1071,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0761-special-binary-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2280-count-good-triplets-in-an-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2280-count-good-triplets-in-an-array) |
@@ -1116,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0759-set-intersection-size-at-least-two](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0759-set-intersection-size-at-least-two) |
+| [0761-special-binary-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0761-special-binary-string) |
 | [0881-boats-to-save-people](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0883-car-fleet](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0883-car-fleet) |
 | [0900-reordered-power-of-2](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
