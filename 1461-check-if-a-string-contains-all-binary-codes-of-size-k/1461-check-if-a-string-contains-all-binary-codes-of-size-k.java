@@ -1,4 +1,5 @@
 class Solution {
+    // sliding window 
     public boolean hasAllCodes(String s, int k) {
         int needed = 1 << k;   // 2^k
         Set<String> seen = new HashSet<>();
