@@ -483,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1542-consecutive-characters) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -953,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0394-decode-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -971,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-sum-of-even-numbers-after-queries](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2048-build-array-from-permutation](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2058-concatenation-of-array) |
