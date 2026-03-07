@@ -10,7 +10,7 @@
  */
 class Solution {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        ListNode ans = new ListNode(Integer.MIN_VALUE);
+        ListNode ans = new ListNode(0);
         ListNode headNode = ans;
         // Traverse till one of the list reaches the end
         while(list1 != null && list2 != null){
