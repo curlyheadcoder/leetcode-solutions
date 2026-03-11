@@ -1,16 +1,12 @@
 class Solution {
     public int findComplement(int num) {
         if(num == 0) return 1;
-        int res = 0;
-        int counter = 0;
-        while(num > 0){
-            int r = num%2;
-            if(r == 0){
-                res += (int) Math.pow(2, counter); 
-            }
-            counter++;
-            num /= 2;
+        int mask = 0;
+        int temp = num;
+        while(temp > 0){
+            mask = (mask << 1) | 1;
+            temp = temp >> 1;
         }
-        return res;
+        return num ^ mask;
     }
 }
