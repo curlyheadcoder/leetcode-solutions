@@ -10,18 +10,21 @@
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        ListNode start = new ListNode(0);
-        ListNode slow = start, fast = start;
-        slow.next = head;
-
-        for(int i = 1; i <= n + 1; i++){
-            fast = fast.next;
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
+        ListNode ptr1 = dummy;
+        ListNode ptr2 = dummy;
+        // move ptr2 'n' spaces ahead
+        for(int i = 0; i < n; i++){
+            ptr2 = ptr2.next;
         }
-        while(fast != null){
-            slow = slow.next;
-            fast = fast.next;
+        // We need to move both ptrs till we get the next of ptr2 as null
+        while(ptr2.next != null){
+            ptr1 = ptr1.next;
+            ptr2 = ptr2.next;
         }
-        slow.next = slow.next.next;
-        return start.next;
+        // we have to delete the next node of the ptr1
+        ptr1.next = ptr1.next.next;
+        return dummy.next;
     }
 }
