@@ -10,40 +10,29 @@
  * }
  */
 public class Solution {
-    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        int m = findLength(headA);
-        int n = findLength(headB);
-
-        ListNode fp = headA, sp = headB;
-        if(m < n){
-            for(int i = 0; i < n-m; i++){
-                sp = sp.next;
-            }
-        }else if(n < m){
-            for(int i = 0; i < m-n; i++){
-                fp = fp.next;
-            }
-        }
-        return findSameNode(fp, sp);
-    }
-    private int findLength(ListNode head){
-        ListNode curr = head;
+    private int getLen(ListNode head){
         int len = 0;
-        while(curr != null){
+        while(head != null){
             len++;
-            curr = curr.next;
+            head = head.next;
         }
         return len;
     }
-    private ListNode findSameNode(ListNode fp, ListNode sp){
-        while(fp != null && sp != null){
-            if(fp == sp){
-                return fp;
-            }else{
-                fp = fp.next;
-                sp = sp.next;
-            }
+    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+        int lenA = getLen(headA);
+        int lenB = getLen(headB);
+        while(lenA > lenB){
+            lenA--;
+            headA = headA.next;
         }
-        return null;
+        while(lenB > lenA){
+            lenB--;
+            headB = headB.next;
+        }
+        while(headA != headB){
+            headA = headA.next;
+            headB = headB.next;
+        }
+        return headA;
     }
 }
