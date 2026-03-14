@@ -16,10 +16,10 @@ class Solution {
             head = head.next;
         }
         ListNode rev = new ListNode(0);
-        ListNode dummy = rev;
+        ListNode ptr =rev;
         while(!st.isEmpty()){
-            dummy.next = new ListNode(st.pop());
-            dummy = dummy.next;
+            ptr.next = new ListNode(st.pop());
+            ptr = ptr.next;
         }
         return rev.next;
     }
