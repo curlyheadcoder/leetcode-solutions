@@ -14,16 +14,16 @@ class Solution {
         dummy.next = head;
         ListNode ptr1 = dummy;
         ListNode ptr2 = dummy;
-        // move ptr2 'n' spaces ahead
+        // Move second pointer n space ahead
         for(int i = 0; i < n; i++){
             ptr2 = ptr2.next;
         }
-        // We need to move both ptrs till we get the next of ptr2 as null
+        // Move both now, until next of ptr2 is null
         while(ptr2.next != null){
             ptr1 = ptr1.next;
             ptr2 = ptr2.next;
         }
-        // we have to delete the next node of the ptr1
+        // we have to remove the node next of ptr1
         ptr1.next = ptr1.next.next;
         return dummy.next;
     }
