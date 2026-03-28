@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
+| [2573-find-the-string-with-lcp](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2573-find-the-string-with-lcp](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2723-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2723-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2573-find-the-string-with-lcp](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -1284,6 +1287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2573-find-the-string-with-lcp](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2689-rearranging-fruits) |
@@ -1569,6 +1573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2411-spiral-matrix-iv) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2573-find-the-string-with-lcp](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -1727,6 +1732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
