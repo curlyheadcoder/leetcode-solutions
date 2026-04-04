@@ -1,20 +1,17 @@
 class Solution {
-    public String decodeCiphertext(String encodedText, int rows) {
-        if(rows == 0) return "";
-        int n = encodedText.length();
-        int columns = n/rows;
-
+    public String decodeCiphertext(String str, int rows) {
+        int n = str.length();
+        int cols = n/rows;
         StringBuilder res = new StringBuilder();
-        for(int startCol = 0; startCol < columns; startCol++){
-            int i = 0;
-            int j = startCol;
-            while(i < rows && j < columns){
-                res.append(encodedText.charAt(i * columns + j));
+        for(int st = 0; st < cols; st++){
+            int i = 0, j = st;
+            while(i < rows && j < cols){
+                res.append(str.charAt(i*cols+j));
                 i++;
                 j++;
             }
         }
-        // remove the trailing spaces 
+        // remove trailing spaces
         int end = res.length()-1;
         while(end >= 0 && res.charAt(end) == ' '){
             end--;
