@@ -1,11 +1,12 @@
 class Solution {
     public int removeElement(int[] nums, int val) {
-        int slow = 0;   // write ke liye
-        for(int fast = 0; fast < nums.length; fast++){
-            if(nums[fast] != val){
-                nums[slow++] = nums[fast];
+        int i = 0;
+        for(int j = 0; j < nums.length; j++){
+            if(nums[j] != val){
+                nums[i] = nums[j];
+                i++;
             }
         }
-        return slow;
+        return i;
     }
 }
