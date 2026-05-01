@@ -1,16 +1,14 @@
 class Solution {
     public void moveZeroes(int[] nums) {
+        int n = nums.length;
         int slow = 0;
-        for(int fast = 0; fast < nums.length; fast++){
+        for(int fast = 0; fast < n; fast++){
             if(nums[fast] != 0){
+                int temp = nums[slow];
                 nums[slow] = nums[fast];
+                nums[fast] = temp;
                 slow++;
             }
-        }    // 1 3 12 3 12     THis is done till now
-        // we have to update last two 3 , 12 to zeroes 
-        while(slow < nums.length){
-            nums[slow] = 0;
-            slow++;
         }
     }
 }
