@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1895-largest-magic-square) |
+| [1914-cyclically-rotating-a-grid](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
@@ -1081,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1914-cyclically-rotating-a-grid](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2048-build-array-from-permutation](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -1658,6 +1660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1895-largest-magic-square) |
+| [1914-cyclically-rotating-a-grid](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1975-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
