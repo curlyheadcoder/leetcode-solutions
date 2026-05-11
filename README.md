@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
+| [2553-separate-the-digits-in-an-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -1103,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2411-spiral-matrix-iv) |
 | [2470-removing-stars-from-a-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2479-meeting-rooms-iii) |
+| [2553-separate-the-digits-in-an-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3336-water-bottles-ii) |
