@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0216-combination-sum-iii) |
@@ -1641,6 +1642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
@@ -1717,6 +1719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0386-lexicographical-numbers) |
@@ -1746,6 +1749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1844,6 +1848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
