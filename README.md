@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2573-find-the-string-with-lcp) |
+| [2574-left-and-right-sum-differences](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -1071,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2529-range-product-queries-of-powers) |
+| [2574-left-and-right-sum-differences](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2906-construct-product-matrix](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2906-construct-product-matrix) |
