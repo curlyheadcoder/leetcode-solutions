@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1813-maximum-erasure-value](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1813-maximum-erasure-value) |
+| [1833-maximum-ice-cream-bars](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1840-maximum-building-height](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -1365,6 +1366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1777-determine-if-two-strings-are-close](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-maximum-ice-cream-bars](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -1450,6 +1452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1833-maximum-ice-cream-bars](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1879-maximum-score-from-removing-stones](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1879-maximum-score-from-removing-stones) |
@@ -1898,6 +1901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Quickselect
 |  |
 | ------- |
