@@ -585,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0979-di-string-match) |
 | [1006-vowel-spellchecker](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -1496,6 +1497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -1770,6 +1772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0883-car-fleet) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1794,6 +1797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0883-car-fleet) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
