@@ -997,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2236-root-equals-sum-of-children](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -1093,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2236-root-equals-sum-of-children](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2236-root-equals-sum-of-children) |
 ## Sliding Window
 |  |
 | ------- |
