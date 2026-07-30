@@ -576,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -858,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
+| [0678-valid-parenthesis-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0799-champagne-tower) |
@@ -1514,6 +1516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0561-array-partition](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0759-set-intersection-size-at-least-two](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0797-rabbits-in-forest](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0797-rabbits-in-forest) |
@@ -1799,6 +1802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0883-car-fleet) |
