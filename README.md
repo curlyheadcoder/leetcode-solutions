@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0486-predict-the-winner](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0556-next-greater-element-iii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [0679-24-game](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -861,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0788-rotated-digits) |
@@ -1210,6 +1213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -2048,6 +2052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Geometry
 |  |
