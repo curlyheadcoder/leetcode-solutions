@@ -1979,6 +1979,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2685-count-the-number-of-complete-components](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3310-remove-methods-from-project](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -2011,6 +2012,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2092-find-all-people-with-secret](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2092-find-all-people-with-secret) |
 | [2685-count-the-number-of-complete-components](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -2097,6 +2099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-count-the-number-of-complete-components](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3310-remove-methods-from-project](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
