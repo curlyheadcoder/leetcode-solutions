@@ -19,11 +19,18 @@ class Solution {
         getHeight(root);
         return maxDiameter;
     }
-    private int getHeight(TreeNode node){
-        if(node == null) return 0;     // base case
-        int leftHeight = getHeight(node.left);
-        int rightHeight = getHeight(node.right);
+    private int getHeight(TreeNode root){
+        if(root == null) return 0;   // base case
+
+        /**
+        diameter will be = height of right subtree + height of left subtree
+         */
+
+        int leftHeight = getHeight(root.left);      // height of left subtree
+        int rightHeight = getHeight(root.right);    // height of right subtree
+
         maxDiameter = Math.max(maxDiameter, leftHeight + rightHeight);
+
         return 1 + Math.max(leftHeight, rightHeight);
     }
 }
