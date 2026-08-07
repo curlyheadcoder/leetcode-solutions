@@ -1,48 +1,76 @@
 class LRUCache {
 
-    class Pair{
-        int key, value;
 
-        Pair(int key, int value){
-        this.key = key;
-        this.value = value;
+    class Node{
+        int key;
+        int value;
+        Node prev;
+        Node next;
+        Node(int key, int value){
+            this.key = key;
+            this.value = value;
         }
     }
 
-    ArrayList<Pair> cache;
+    HashMap<Integer, Node> cache;
+    Node head;
+    Node tail;
     int capacity;
 
     public LRUCache(int capacity) {
         this.capacity = capacity;
-        cache = new ArrayList<>();    
+        cache = new HashMap<>();
+        head = new Node(-1, -1);
+        tail = new Node(-1, -1);
+        head.next = tail;
+        tail.prev = head;
+    }
+    // for making most recently used 
+    private void makeMostRecentlyUsed(Node node){
+        remove(node);
+        addFirst(node);
+    }
+    // Insert after head
+
+    private void addFirst(Node node){
+        node.next = head.next;
+        node.prev = head;
+
+        head.next.prev = node;
+        head.next = node;
+    }
+
+    // remove node
+    private void remove(Node node){
+        node.prev.next = node.next;
+        node.next.prev = node.prev;
     }
     
     public int get(int key) {
-        for(int i = 0; i < cache.size(); i++){
-            if(cache.get(i).key == key){
-                int val = cache.get(i).value;
-                Pair temp = cache.get(i);
-                cache.remove(i);
-                cache.add(temp);
-                return val;
-            }
+        if(!cache.containsKey(key)){
+            return -1;
         }
-        return -1;
+        Node node = cache.get(key);
+        makeMostRecentlyUsed(node);
+        return node.value;
     }
     
     public void put(int key, int value) {
-        for(int i = 0; i < cache.size(); i++){
-            if(cache.get(i).key == key){
-                cache.remove(i);
-                cache.add(new Pair(key, value));
-                return;
-            }
-        }
-        if(cache.size() == capacity){
-            cache.remove(0);
-            cache.add(new Pair(key, value));
+        if(cache.containsKey(key)){
+            Node node = cache.get(key);
+            node.value = value;
+            makeMostRecentlyUsed(node);
         }else{
-            cache.add(new Pair(key, value));
+            Node node = new Node(key, value);
+            cache.put(key, node);
+            addFirst(node);
+            capacity--;
+            if(capacity < 0){
+                Node lru = tail.prev;
+                remove(lru);
+                cache.remove(lru.key);
+                capacity++;
+            }
         }
     }
 }
