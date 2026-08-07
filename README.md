@@ -666,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -718,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-longest-subsequence-repeated-k-times](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
 | ------- |
@@ -815,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3336-water-bottles-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
@@ -1605,6 +1608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -1630,6 +1634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3312-sorted-gcd-pair-queries](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
