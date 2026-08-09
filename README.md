@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1127-last-stone-weight](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1127-last-stone-weight) |
+| [1140-stone-game-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -768,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1266-minimum-time-visiting-all-points](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -891,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1301-number-of-paths-with-max-score](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1340-jump-game-v) |
@@ -1175,6 +1178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1590-make-sum-divisible-by-p](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
@@ -2091,6 +2095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3462-vowels-game-in-a-string) |
 ## Geometry
@@ -2158,10 +2163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
