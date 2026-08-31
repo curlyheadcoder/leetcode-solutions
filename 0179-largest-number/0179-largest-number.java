@@ -8,31 +8,29 @@ class Solution {
             34, 3 => 343, 334 => 4 > 3
             [9,5,34,3,30]  => 9534330
         */
-        List<String> list = new ArrayList<>();
-        for(int i : nums){
-            list.add(String.valueOf(i));
+        
+        // Convert int array to String array, so we can sort later 
+        String [] strArr = new String[nums.length];
+        for(int i = 0; i < nums.length; i++){
+            strArr[i] = String.valueOf(nums[i]);
         }
-        Collections.sort(list, (a,b) -> compare(a,b));
-        String ans = String.join("",list);
-        if(allZeroes(ans)) return "0";
-        return ans;
-    }
-    private boolean allZeroes(String s){
-        for(char c : s.toCharArray()){
-            if(c != '0') return false;
+        // Sort Strings according to custom comparator
+        Arrays.sort(strArr, new Comparator<String>(){
+            public int compare(String a, String b){
+                String order1 = a + b;
+                String order2 = b + a;
+                return order2.compareTo(order1);
+            }
+        });
+        // If, after being sorted, the largest number is '0', the entire number is shifted towards right
+        if(strArr[0].equals("0")){
+            return "0";
         }
-        return true;
-    }
-    private int compare(String a, String b){
-        int i = 0, j = 0;
-        while(i < a.length() || j < b.length()){
-            if(i == a.length()) i = 0;
-            if(j == b.length()) j = 0;
-            if(a.charAt(i) > b.charAt(j)) return -1;
-            if(a.charAt(i) < b.charAt(j)) return 1;
-            i++;
-            j++;
+        // Build largest number from Sorted Array
+        StringBuilder largestNumberStr = new StringBuilder();
+        for(String numAsStr : strArr){
+            largestNumberStr.append(numAsStr);
         }
-        return 0;
+        return largestNumberStr.toString();
     }
 }
