@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -1739,6 +1741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [1034-subarrays-with-k-different-integers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -1865,6 +1868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
