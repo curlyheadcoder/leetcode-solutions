@@ -1,13 +1,13 @@
 class Solution {
     public int firstUniqChar(String s) {
-        Map<Character, Integer> fmap = new HashMap<>();
+        int [] freq = new int [26];
         // Count frequency
-        for(char ch : s.toCharArray()){
-            fmap.put(ch, fmap.getOrDefault(ch, 0)+1);
+        for(char ch: s.toCharArray()){
+            freq[ch - 'a']++;
         }
-        // Find first unique
+        // Find first unique character
         for(int i = 0; i < s.length(); i++){
-            if(fmap.get(s.charAt(i)) == 1){
+            if(freq[s.charAt(i) - 'a'] == 1){
                 return i;
             }
         }
