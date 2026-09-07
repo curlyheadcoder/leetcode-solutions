@@ -1,14 +1,18 @@
 class Solution {
     public int distinctSubseqII(String s) {
         final long MOD = 1_000_000_007L;
-        long [] last = new long [26];
-        long total = 0;
+        // last[c] = dp value before the previous occurence of character c
+        long [] last = new long[26];
+        // Initially only the empty subsequence exists
+        long dp = 1;
         for(char ch : s.toCharArray()){
             int index = ch - 'a';
-            long newSubsequences = (total + 1) % MOD;
-            total = (total + newSubsequences - last[index] + MOD) % MOD;
-            last[index] = newSubsequences;
+            long newDp = (2 * dp - last[index] + MOD) % MOD;
+            // store the old dp value for this character
+            last[index] = dp;
+            dp = newDp;
         }
-        return (int) total;
+        // Remove the empty subsequence
+        return (int)((dp - 1 + MOD) % MOD);
     }
 }
