@@ -10,10 +10,10 @@ class Solution {
                 c2++;
             }else if(c1 == 0){
                 maj1 = nums[i];
-                c1 = 1;
+                c1++;
             }else if(c2 == 0){
                 maj2 = nums[i];
-                c2 = 1;
+                c2++;
             }else{
                 c1--;
                 c2--;
