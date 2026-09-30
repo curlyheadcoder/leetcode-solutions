@@ -620,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -948,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -1436,6 +1438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0567-permutation-in-string) |
