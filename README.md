@@ -2357,6 +2357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -2375,4 +2376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
