@@ -4,7 +4,7 @@ class Solution {
         for(int fast = 1; fast < nums.length; fast++){
             if(nums[fast] != nums[fast-1]){
                 nums[slow] = nums[fast];
-                slow++;
+                ++slow;
             }
         }
         return slow;
