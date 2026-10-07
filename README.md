@@ -617,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -770,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0756-pyramid-transition-matrix) |
@@ -2172,6 +2174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0407-trapping-rain-water-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
