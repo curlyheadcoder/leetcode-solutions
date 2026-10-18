@@ -794,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0089-gray-code) |
 | [0216-combination-sum-iii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
@@ -820,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
@@ -1946,6 +1948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
