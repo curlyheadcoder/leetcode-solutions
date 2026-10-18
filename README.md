@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0085-maximal-rectangle) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0165-compare-version-numbers) |
@@ -789,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
@@ -2102,6 +2105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0221-maximal-square) |
@@ -2182,6 +2186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
