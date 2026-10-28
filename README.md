@@ -443,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -1106,6 +1107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Enumeration
 |  |
 | ------- |
@@ -2045,6 +2047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -2217,6 +2220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3797-design-spreadsheet) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
