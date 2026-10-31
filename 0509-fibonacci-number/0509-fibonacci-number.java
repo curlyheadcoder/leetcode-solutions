@@ -1,12 +1,15 @@
+/**
+    RECURSION + MEMOIZATION ====> Top-Down
+ **/
 class Solution {
-    private int helper(int n, int[] dp){
+    private int fibo(int n, int [] dp){
         if(n <= 1) return n;
         if(dp[n] != 0) return dp[n];
-        dp[n] = helper(n-1, dp) + helper(n-2, dp);
+        dp[n] = fibo(n-1, dp) + fibo(n-2, dp);
         return dp[n];
     }
     public int fib(int n) {
-        int [] dp = new int [n+1];   // from index 0 to n
-        return helper(n, dp);
+        int [] dp = new int [n+1];
+        return fibo(n, dp);
     }
 }
