@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1390-four-divisors](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1255,6 +1256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1382-balance-a-binary-search-tree](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1612-avoid-flood-in-the-city](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -1563,6 +1565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0979-di-string-match](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/0979-di-string-match) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -1715,6 +1718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1340-jump-game-v) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/curlyheadcoder/leetcode-solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
