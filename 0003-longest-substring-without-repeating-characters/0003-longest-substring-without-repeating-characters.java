@@ -3,7 +3,7 @@ class Solution {
         int i = 0, j = 0;
         int n = s.length();
         HashSet<Character> set = new HashSet<>();
-        int maxLen = 0, currLen = 0;
+        int maxLen = Integer.MIN_VALUE, currLen = 0;
         while(j < n){
             char c = s.charAt(j);
             if(set.contains(c)){
@@ -16,6 +16,6 @@ class Solution {
             maxLen = Math.max(maxLen, j - i + 1);
             j++;
         }
-        return (maxLen == 0) ? 0 : maxLen;
+        return (maxLen == Integer.MIN_VALUE) ? 0 : maxLen;
     }
 }
